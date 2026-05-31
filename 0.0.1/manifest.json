@@ -1,0 +1,13 @@
+{
+  "name": "cn-cli",
+  "version": "0.0.1",
+  "generatedAt": "2026-05-31T15:15:34.123Z",
+  "platforms": {
+    "darwin-arm64": {
+      "binary": "cn",
+      "checksum": "da3e52f3b6c4cb98a36ba778667bf3633898a0dae5af7cd4c3170ab97cca6f56",
+      "size": 78502866,
+      "url": "0.0.1/darwin-arm64/cn"
+    }
+  }
+}
