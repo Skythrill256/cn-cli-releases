@@ -1,7 +1,7 @@
 {
   "name": "cn-cli",
   "version": "0.0.1",
-  "generatedAt": "2026-05-31T15:15:34.123Z",
+  "generatedAt": "2026-05-31T15:19:23.817Z",
   "platforms": {
     "darwin-arm64": {
       "binary": "cn",
