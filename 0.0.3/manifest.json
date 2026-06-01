@@ -1,0 +1,79 @@
+{
+  "name": "cn-cli",
+  "version": "0.0.3",
+  "generatedAt": "2026-06-01T11:34:27.830Z",
+  "platforms": {
+    "darwin-arm64": {
+      "binary": "cn",
+      "checksum": "df9344405a00eec09cb366b8e20263f25542f4d887eee190f1bb911c755f2c11",
+      "compressedChecksum": "d4d89de9c8df305fdc6107c47f1f79cdb8ce77c66b5fb5c21b5b1bf030e7a3f9",
+      "compressedSize": 28122505,
+      "compression": "gzip",
+      "size": 84515426,
+      "url": "0.0.3/darwin-arm64/cn.gz"
+    },
+    "darwin-x64": {
+      "binary": "cn",
+      "checksum": "db4bd095024d4b43d1a6cfb60a475e162e9293c6bc688f56ad3880d309c6c00b",
+      "compressedChecksum": "c0b0e9bb545a0afd2c5aa1d6ac5dca845c09cc42e193a254332bef648896c28d",
+      "compressedSize": 30507505,
+      "compression": "gzip",
+      "size": 90079312,
+      "url": "0.0.3/darwin-x64/cn.gz"
+    },
+    "linux-arm64": {
+      "binary": "cn",
+      "checksum": "11d4fd4d025c85d5caf5b30ab45fd8d3c66ecbfb3e32892be08d13bf332232e3",
+      "compressedChecksum": "b9fc871378069a2e15154b770f55319788a2767c375478ddadeebff70d0c7dab",
+      "compressedSize": 39600089,
+      "compression": "gzip",
+      "size": 114600080,
+      "url": "0.0.3/linux-arm64/cn.gz"
+    },
+    "linux-arm64-musl": {
+      "binary": "cn",
+      "checksum": "10617a45d898e2d611cfcb40f8834140927b6d30ff121711681d57da65f221bc",
+      "compressedChecksum": "387c5be317ef0204290ae96e0677af6a5b7ef3b65b8507826441243b31cf9ea9",
+      "compressedSize": 38215769,
+      "compression": "gzip",
+      "size": 110210936,
+      "url": "0.0.3/linux-arm64-musl/cn.gz"
+    },
+    "linux-x64": {
+      "binary": "cn",
+      "checksum": "321d74b69f8c0592255c17d0f8ae32754d15bc5404614b353219d498c562a9a2",
+      "compressedChecksum": "7fa7f75e967dc1259e4e97a56859fd7dc7ba544d3c6589bc985ecab09cf70922",
+      "compressedSize": 39909152,
+      "compression": "gzip",
+      "size": 115492992,
+      "url": "0.0.3/linux-x64/cn.gz"
+    },
+    "linux-x64-musl": {
+      "binary": "cn",
+      "checksum": "5e78b8579592d2a7afa8e4556ea1e32a6f73bf2ef42294b245e05dbd48d916b5",
+      "compressedChecksum": "39e7367974eba1c08ddf91e9b9e8ffe0ab724d91548240cc5c40b82dffab5c05",
+      "compressedSize": 38604579,
+      "compression": "gzip",
+      "size": 112072992,
+      "url": "0.0.3/linux-x64-musl/cn.gz"
+    },
+    "win32-arm64": {
+      "binary": "cn.exe",
+      "checksum": "c77f364ee680120fe08a819c999049052431cef1637a5a3b8dd1fe5b775f9344",
+      "compressedChecksum": "49844dd39c9b65976b6b03edbe7f306ba1421c8ee620fe641abc946dac544d70",
+      "compressedSize": 40580092,
+      "compression": "gzip",
+      "size": 115487744,
+      "url": "0.0.3/win32-arm64/cn.exe.gz"
+    },
+    "win32-x64": {
+      "binary": "cn.exe",
+      "checksum": "639fba22372126391a2853614b3b246fcc9d5b2e169dc69721fe564ecc5657d5",
+      "compressedChecksum": "3d9a437259f11ab2b103ec43ba52339348c2f8df5d7f61ef28e4f64885c535d8",
+      "compressedSize": 42281763,
+      "compression": "gzip",
+      "size": 119384064,
+      "url": "0.0.3/win32-x64/cn.exe.gz"
+    }
+  }
+}
